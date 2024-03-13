@@ -1,0 +1,60 @@
+#hiring{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    font-family: "Roboto", sans-serif;
+}
+#bg-size{
+width: 233.333px;
+/* border-radius: 25px; */
+}
+
+#btn-apply{
+   background: #00205b03;
+   border-radius: 50px;
+   font-weight: 700;
+   font-size: 12px;
+   line-height:20px;
+   color: var(--P100, #275DF5);
+
+}
+#bg-color:hover{
+  
+}
+
+.it-domain{
+    font-size: 17px;
+    font-family: "Satoshi";
+    font-weight:900;
+}
+.back-color{
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(0, 32, 91, 0.03);
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 20px;
+    color: #1B2437;
+    font-family: "Roboto", sans-serif;
+    border-radius: 10px;
+}
+#job-loc{
+ font-size: 11px;
+ font-family: "Roboto", sans-serif;
+ border-radius: 40px;
+}
+.job-ctc{
+    color: #1f662c;
+    background-color: #e4f7e6;
+    border-radius: .25rem;
+ /* width: fit-content; */
+/* margin: 0% 24%; */
+
+
+
+}
+.card-ctc{
+    font-size: 1.15rem;
+
+}
